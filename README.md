@@ -1,10 +1,13 @@
-Tairan Ye's Data Science Lab Project 
-==============================
+# Tairan Ye's Data Science Lab Project 
 
-Hello everyone,
+## Final Project: 
+Project_Report.pdf; Project_Report.rmd; 
+(Under Report Folder)
 
-Here is my homepage for the Data Science Lab Project. I hope you will like it. 
+## Presentation:
+Final_Presentation.html
 
-Thanks. 
+**To reproduce the result:**
+Run "Logisitc_posterior_MH_Rcpp.R", then you will receive all results automatically
 
-Tairan
+(Make sure R file, stan file, and C++ file are under the same path)
